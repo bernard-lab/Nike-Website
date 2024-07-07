@@ -1,15 +1,15 @@
 # React + Vite
 # Nike Website Replica
-# A Simple Web Page Built with React.js and Tailwind CSS
+- A Simple Web Page Built with React.js and Tailwind CSS
 
 # Description
-# This project showcases a basic web page created using React.js and styled with Tailwind CSS. It serves as a starting point for developers who want to explore the integration of these two powerful technologies.
+This project showcases a basic web page created using React.js and styled with Tailwind CSS. It serves as a starting point for developers who want to explore the integration of these two powerful technologies.
 
 Features
-# Responsive Design: The web page adapts seamlessly to different screen sizes, thanks to Tailwind CSS’s utility classes.
-# Component-Based Architecture: React components are organized for easy maintenance and scalability.
-# Minimalistic Styling: Tailwind CSS provides a clean and efficient way to style components without writing custom CSS.
-# Quick Setup: The project is set up using Create React App, making it easy to get started.
+- Responsive Design: The web page adapts seamlessly to different screen sizes, thanks to Tailwind CSS’s utility classes.
+- Component-Based Architecture: React components are organized for easy maintenance and scalability.
+- Minimalistic Styling: Tailwind CSS provides a clean and efficient way to style components without writing custom CSS.
+- Quick Setup: The project is set up using Create React App, making it easy to get started.
 
 ![nike7](https://github.com/bernard-lab/Nike-Website/assets/61766380/b029d6bf-4e79-42da-a8ca-1168fc77c239)
 ![nike6](https://github.com/bernard-lab/Nike-Website/assets/61766380/b787a0b4-63f7-4de4-8fbe-703f797de88d)
